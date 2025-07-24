@@ -4,7 +4,7 @@
 
 # 📊 Retail Analytics Dashboard – Business Insights for Staples
 
-This project showcases a comprehensive analytics dashboard built using real-world retail data modeled on the **Superstore dataset**, but designed as if it belongs to a national retailer like **Staples**. The purpose is to uncover trends, patterns, and actionable insights through data visualization for executives, analysts, and operations teams.
+This project showcases a comprehensive analytics Interactive dashboard built using real-world retail data modeled on the **Superstore dataset**, but designed as if it belongs to a national retailer like **Staples**. The purpose is to uncover trends, patterns, and actionable insights through data visualization for executives, analysts, and operations teams.
 
 ---
 
@@ -144,8 +144,14 @@ This dashboard was designed to help **Staples’** leadership team make informed
 1. Clone the repository to your local machine  
 2. Place the dataset (`Sample - Superstore.xls`) in the `/data` folder  
 3. Open the dashboard in Power BI / Tableau (if file provided)  
-4. Explore KPIs, filters, and visualizations  
-5. Use insights for decision-making or reporting
+4. Explore KPIs, filters, and visualizations
+   - Use built-in filter buttons (also known as slicers) to interact with the dashboard.
+   - Filter by Region, Customer Segment, Category, or Time Period to drill down into specific insights.
+   - Click on charts or values to dynamically update other visuals.
+6. Use insights for decision-making or reporting
+   - Executive reporting
+   - Business decision-making
+   - Marketing, sales, and supply chain analysis
 
 ---
 
